@@ -1,5 +1,5 @@
 # KNN Algorithm
-This repository includes the notebook and accompanying dataset for my blog post titled "K Nearest Neighbors Algorithm with Basic Python"
+This repository includes the notebook and accompanying dataset for my blog post titled "Implementing K Nearest Neighbors Algorithm with Basic Python"
 
 Read the full tutorial blog post on my website [here.](http://steventchase.com/2020-07-30-KNN_Algorithm/)
 
