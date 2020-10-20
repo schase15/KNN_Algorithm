@@ -5,4 +5,4 @@ Read the full tutorial blog post on my website [here.](http://steventchase.com/2
 
 This tutorial walks through an implementation of a K Nearest Neighbors supervised machine learning model using only basic Python. It then uses the popular Titanic dataset to test the algorithm and compare the results to that of Scikit-Learn's KNClassifier model.
 
-In addition, the post explains the theory and derives the mathematical formulas behind KNN. 
+In addition, the post does a deep dive into the theory and derives the mathematical formulas behind KNN. 
